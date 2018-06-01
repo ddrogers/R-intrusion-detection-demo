@@ -6,7 +6,7 @@ Setting the working directory to “To Source File Location” will allow the ap
 files and packages. Please allow a few minutes for the application to install any additional software.
 
 ## PIDS tab:
-Depending on the Operating System of your computer, the PIDS should take no more than a few minutes to complete it's
+Depending on your computers hardware, the PIDS should take no more than a few minutes to complete it's
 run.
 
 ## Documentation:
